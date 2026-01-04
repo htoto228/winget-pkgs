@@ -1,0 +1,14 @@
+PackageIdentifier: MyCompany.MyApp.
+PackageVersion: 1.2
+PackageLocale: en-US
+Publisher: My arhives
+PackageName: ChatGPT-
+License: MIT
+ShortDescription: xaxaxxa
+Installers:
+  - Architecture: x64
+    InstallerType: exe
+    InstallerUrl: https://github.com/Synaptrix/ChatGPT-Desktop/releases/tag/v1.0.4
+    InstallerSha256: 2B05EE1146118B76E8B6D6DEB0C39880AA168EA67F84DA8449FB0F447409FF15
+ManifestType: singleton
+ManifestVersion: 1.6.0
